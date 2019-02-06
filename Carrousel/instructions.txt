@@ -1,0 +1,2 @@
+Carrousel who goes back to the beginning when a end is reached
+pre-defined for a certain length, compatible with dots to indicate where you are in the carousel and arrows to navigate in each end of the carousel
